@@ -1,0 +1,34 @@
+_repo: The-Great-Dome-on-Mercury_29190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zagat, Arthur Leo
+    birthdate: 1896
+    deathdate: 1949
+    gutenberg_agent_id: '33759'
+    url: http://www.gutenberg.org/2009/agents/33759
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Leo_Zagat
+description: Attorney-turned-author Arthur Leo Zagat strikes science-fiction gold
+  again in the tautly thrilling tale, ""The Great Dome on Mercury."" The story recounts
+  the last stand of a lone holdout who bravely battles to save Earth's colony on Mercury
+  against a marauding battalion of Martians.
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Mercury (Planet) -- Fiction'
+- !lcc 'PS'
+title: The Great Dome on Mercury
+url: http://www.gutenberg.org/ebooks/29190
